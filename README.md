@@ -43,7 +43,7 @@ Avalanche-NFT-Marketplace/               # Hardhat + Solidity setup
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/yourname/avalanche-nft-marketplace.git
+git clone https://github.com/cesillaas/Avalanche-NFT-marketplace.git
 cd avalanche-nft-marketplace
 ````
 
